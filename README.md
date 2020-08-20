@@ -1,6 +1,6 @@
 # Learning - Intermediate
 Author: Anil George
 
-This repo contains some of my intermediate-level Jupyter notebooks.
+This repo contains project submissions (Jupyter notebooks) for the Data Scientist Track.
 
 Sources: Datacamp
