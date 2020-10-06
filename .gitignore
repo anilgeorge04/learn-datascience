@@ -1,2 +1,3 @@
 # local settings
 .vscode/settings.json
+*/.ipynb_checkpoints/
