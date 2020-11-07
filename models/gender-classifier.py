@@ -10,7 +10,7 @@ from sklearn.ensemble import RandomForestClassifier
 # people with [height, weight, shoe size] and gender labels
 people = []
 gender = []
-for _ in range(1000):
+for _ in range(50000):
     people.append([randint(160, 190), randint(45, 95), randint(38, 48)])
     gender.append("male" if randint(0, 1) == 0 else "female")
 
