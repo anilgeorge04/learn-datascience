@@ -1,2 +1,6 @@
 # local files
 .vscode/
+data/
+
+# csv files
+data/crime_sampler.csv
