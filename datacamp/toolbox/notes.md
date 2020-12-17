@@ -19,3 +19,6 @@ Calling this `sum(2)` or `sum(2, 3, 4)` and so on.
 Rakes how many ever keyword argument pairs into the function, as a dictionary `details(**kwargs)`. 
 Calling this as `details(name="albus", employer="hogwarts")`
 
+## Error Handling
+- try, except blocks
+- raise error
