@@ -1,6 +1,7 @@
 # local files
 .vscode/
 data/
+__pycache__/
 
 # csv files
 data/crime_sampler.csv
